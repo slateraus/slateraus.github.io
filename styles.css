@@ -12,3 +12,7 @@ body {
   color: purple ;
   text-align: center;
 }
+
+.my-image {
+  border-radius: 100px;
+}
